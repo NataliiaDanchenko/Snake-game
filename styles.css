@@ -1,0 +1,13 @@
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+.snake_board {
+    border: solid green;
+}
+img {
+    width: 30px;
+    height: 30px;
+}
